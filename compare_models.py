@@ -1,0 +1,5 @@
+print("Model Comparison")
+print("----------------")
+print("U-Net        -> Exact tumor segmentation")
+print("Faster R-CNN -> Tumor localization box")
+print("Best practice -> Use both together")
